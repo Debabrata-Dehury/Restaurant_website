@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//Debabrata-Dehury.github.io/Restaurant_website/static/css/main.624176d2.css",
+    "main.js": "//Debabrata-Dehury.github.io/Restaurant_website/static/js/main.d58751ba.js",
+    "index.html": "//Debabrata-Dehury.github.io/Restaurant_website/index.html",
+    "main.624176d2.css.map": "//Debabrata-Dehury.github.io/Restaurant_website/static/css/main.624176d2.css.map",
+    "main.d58751ba.js.map": "//Debabrata-Dehury.github.io/Restaurant_website/static/js/main.d58751ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.624176d2.css",
+    "static/js/main.d58751ba.js"
+  ]
+}
